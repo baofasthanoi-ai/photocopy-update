@@ -1,4 +1,11 @@
 {
+  "PC-4F46-59E3-5869": {
+    "note": "BAMBU NOTE - PHOTOCOPY",
+    "quote": true,
+    "monitor": true,
+    "accounting": true,
+    "banned": false
+  },
   "PC-8FC5-9D55-5C44": {
     "note": "BAMBU NOTE - PHOTOCOPY",
     "quote": false,
