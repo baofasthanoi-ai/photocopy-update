@@ -4,13 +4,15 @@
     "quote": true,
     "monitor": true,
     "accounting": true,
-    "banned": false
+    "banned": false,
+    "reset_id": 1795187393
   },
   "PC-8FC5-9D55-5C44": {
     "note": "BAMBU NOTE - PHOTOCOPY",
     "quote": false,
     "monitor": false,
     "accounting": false,
-    "banned": false
+    "banned": false,
+    "reset_id": 1795187393
   }
 }
