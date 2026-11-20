@@ -1,11 +1,11 @@
 {
-  "version": "V1",
-  "download_url": "https://github.com/baofasthanoi-ai/photocopy-update/releases/download/V1/QuanLyPhotocopy.exe",
-  "changelog": "- Phien ban dau thay doi giao dien",
+  "version": "10.0",
+  "download_url": "",
+  "changelog": "- Phiên bản V10: Dashboard mới, AI tách nền, đồng bộ tự động",
   "developer": {
-    "name": "gdfgdf",
-    "contact": "dfgdf",
-    "website": "dfgdfgdf",
-    "notice": "gdf"
+    "name": "BAMBU NOTE - OANHVV STUDIO",
+    "contact": "FB: oanhvy | Zalo: 09xx.xxx.xxx",
+    "website": "https://github.com/baofasthanoi-ai/photocopy-update",
+    "notice": "Cảm ơn bạn đã sử dụng phần mềm Photocopy Pro!"
   }
 }
