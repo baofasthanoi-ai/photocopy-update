@@ -2,13 +2,13 @@
   "machine_key": "PC-8FC5-9D55-5C44",
   "shop_name": "BAMBU NOTE - PHOTOCOPY",
   "app_version": "10.3",
-  "last_seen_ts": 1795189452.5709937,
-  "last_seen_str": "2026-11-20 22:44:12",
+  "last_seen_ts": 1795189499.985661,
+  "last_seen_str": "2026-11-20 22:44:59",
   "total_pages": 0,
   "total_jobs": 0,
   "today_pages": 0,
-  "coins": 1000000,
+  "coins": 999990,
   "clicks_quote": 2,
-  "clicks_monitor": 6,
-  "clicks_accounting": 2
+  "clicks_monitor": 7,
+  "clicks_accounting": 3
 }
