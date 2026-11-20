@@ -1,11 +1,11 @@
 {
   "PC-4F46-59E3-5869": {
     "note": "BAMBU NOTE - PHOTOCOPY",
-    "quote": false,
-    "monitor": false,
-    "accounting": false,
+    "quote": true,
+    "monitor": true,
+    "accounting": true,
     "banned": false,
-    "reset_id": 1795198322
+    "reset_id": 1795205695
   },
   "PC-8FC5-9D55-5C44": {
     "note": "BAMBU NOTE - PHOTOCOPY",
@@ -13,6 +13,6 @@
     "monitor": true,
     "accounting": true,
     "banned": false,
-    "reset_id": 1795198322
+    "reset_id": 1795205695
   }
 }
