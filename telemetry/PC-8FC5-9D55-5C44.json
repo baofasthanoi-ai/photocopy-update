@@ -2,8 +2,8 @@
   "machine_key": "PC-8FC5-9D55-5C44",
   "shop_name": "BAMBU NOTE - PHOTOCOPY",
   "app_version": "11.0",
-  "last_seen_ts": 1795226763.5725768,
-  "last_seen_str": "2026-11-21 09:06:03",
+  "last_seen_ts": 1795226775.1965117,
+  "last_seen_str": "2026-11-21 09:06:15",
   "total_pages": 0,
   "total_jobs": 0,
   "today_pages": 0,
@@ -14,7 +14,7 @@
   "menu_clicks": {
     "🖨  In nhanh & Xóa nền PDF": 10,
     "📊  Lịch sử in & Doanh thu": 4,
-    "🧩  Bình bài & Cắt bế (AI)": 4,
+    "🧩  Bình bài & Cắt bế (AI)": 5,
     "🧮  Báo giá nhanh (5 xu)": 2,
     "🖥  Giám sát & Bảo dưỡng (5 xu)": 3,
     "💰  Bảng giá in": 2,
@@ -23,6 +23,6 @@
     "👥  Khách hàng & Công nợ": 7,
     "📈  Kế toán nội bộ (5 xu)": 5,
     "⚙  Cài đặt & Tài khoản": 6,
-    "🪪  In Căn Cước CD (AI)": 1
+    "🪪  In Căn Cước CD (AI)": 2
   }
 }
