@@ -2,8 +2,8 @@
   "machine_key": "PC-4F46-59E3-5869",
   "shop_name": "BAMBU NOTE - PHOTOCOPY",
   "app_version": "13.4",
-  "last_seen_ts": 1795251407.3269894,
-  "last_seen_str": "2026-11-21 15:56:47",
+  "last_seen_ts": 1795251480.4419773,
+  "last_seen_str": "2026-11-21 15:58:00",
   "total_pages": 486,
   "total_jobs": 4,
   "today_pages": 486,
@@ -41,7 +41,7 @@
     {
       "printer_name": "RICOH Aficio MP 7502",
       "counter": 485,
-      "status": "Đang in (3 lệnh)",
+      "status": "Đang in (2 lệnh)",
       "is_error": false,
       "port": "192.168.100.68"
     },
