@@ -8,7 +8,24 @@
     "reset_id": 0,
     "reset_pw_id": 0,
     "coin_adj_id": 0,
-    "coin_adj_delta": 0
+    "coin_adj_delta": 0,
+    "allowed_menus": {
+      "0": true,
+      "13": true,
+      "14": false,
+      "10": true,
+      "11": true,
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "12": true,
+      "6": true,
+      "7": true,
+      "8": false
+    },
+    "allow_gemini": false
   },
   "PC-8FC5-9D55-5C44": {
     "note": "BAMBU NOTE - PHOTOCOPY",
@@ -16,9 +33,11 @@
     "monitor": true,
     "accounting": true,
     "banned": false,
-    "reset_id": 1795226108,
+    "reset_id": 0,
     "reset_pw_id": 0,
-    "coin_adj_id": 1795225787,
-    "coin_adj_delta": 100
+    "coin_adj_id": 0,
+    "coin_adj_delta": 0,
+    "allowed_menus": {},
+    "allow_gemini": false
   }
 }
