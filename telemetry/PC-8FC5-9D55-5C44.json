@@ -2,12 +2,12 @@
   "machine_key": "PC-8FC5-9D55-5C44",
   "shop_name": "BAMBU NOTE - PHOTOCOPY",
   "app_version": "11.0",
-  "last_seen_ts": 1795225140.3399167,
-  "last_seen_str": "2026-11-21 08:39:00",
+  "last_seen_ts": 1795225154.0543127,
+  "last_seen_str": "2026-11-21 08:39:14",
   "total_pages": 0,
   "total_jobs": 0,
   "today_pages": 0,
-  "coins": 40,
+  "coins": 90,
   "clicks_quote": 1,
   "clicks_monitor": 1,
   "clicks_accounting": 0,
@@ -18,6 +18,8 @@
     "🧮  Báo giá nhanh (5 xu)": 1,
     "🖥  Giám sát & Bảo dưỡng (5 xu)": 1,
     "💰  Bảng giá in": 1,
-    "📦  Quản lý Sản phẩm": 1
+    "📦  Quản lý Sản phẩm": 1,
+    "🧾  Hóa Đơn & Lịch sử HĐ": 1,
+    "👥  Khách hàng & Công nợ": 1
   }
 }
