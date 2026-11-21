@@ -10,20 +10,20 @@
     "notice": "Chào mừng bạn đến với Photocopy Pro V11!"
   },
   "topup_config": {
-    "bank_id": "VCB - Vietcombank",
+    "bank_id": "VCB",
     "bank_acc": "9896894456",
     "contact": "FB: oanhvy",
     "info_text": ""
   },
   "coin_costs": {
-    "click_module": 5,
-    "ai_remove_bg": 17,
-    "gdrive": 10,
-    "merge_pdf": 12,
-    "word_to_pdf": 10,
-    "compress_pdf": 12,
-    "export_invoice": 10,
-    "add_expense": 10,
-    "push_invoice": 10
+    "click_module": 0,
+    "ai_remove_bg": 0,
+    "gdrive": 0,
+    "merge_pdf": 0,
+    "word_to_pdf": 0,
+    "compress_pdf": 0,
+    "export_invoice": 0,
+    "add_expense": 0,
+    "push_invoice": 0
   }
 }
