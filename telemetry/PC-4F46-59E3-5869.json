@@ -2,8 +2,8 @@
   "machine_key": "PC-4F46-59E3-5869",
   "shop_name": "BAMBU NOTE - PHOTOCOPY",
   "app_version": "13.4",
-  "last_seen_ts": 1795249684.4972012,
-  "last_seen_str": "2026-11-21 15:28:04",
+  "last_seen_ts": 1795249686.2935872,
+  "last_seen_str": "2026-11-21 15:28:06",
   "total_pages": 0,
   "total_jobs": 0,
   "today_pages": 0,
@@ -17,7 +17,8 @@
     "⚙  Cài đặt & Tài khoản": 5,
     "🖥  Giám sát & Bảo dưỡng (5 xu)": 3,
     "💰  Bảng giá in": 1,
-    "📦  Kho hàng & Sản phẩm": 2
+    "📦  Kho hàng & Sản phẩm": 2,
+    "💬  Chat Zalo Nhận File": 1
   },
   "customers": [],
   "invoices": [],
