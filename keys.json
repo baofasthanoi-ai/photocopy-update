@@ -1,6 +1,6 @@
 {
   "PC-4F46-59E3-5869": {
-    "note": "fáđâs",
+    "note": "BAMBU NOTE - PHOTOCOPY",
     "quote": true,
     "monitor": true,
     "accounting": true,
@@ -9,22 +9,7 @@
     "reset_pw_id": 0,
     "coin_adj_id": 0,
     "coin_adj_delta": 0,
-    "allowed_menus": {
-      "0": true,
-      "13": true,
-      "14": false,
-      "10": true,
-      "11": true,
-      "1": true,
-      "2": true,
-      "3": true,
-      "4": true,
-      "5": true,
-      "12": true,
-      "6": true,
-      "7": true,
-      "8": true
-    },
+    "allowed_menus": {},
     "allow_gemini": false
   },
   "PC-8FC5-9D55-5C44": {
