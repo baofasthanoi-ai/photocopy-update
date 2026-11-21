@@ -2,8 +2,8 @@
   "machine_key": "PC-4F46-59E3-5869",
   "shop_name": "BAMBU NOTE - PHOTOCOPY",
   "app_version": "13.4",
-  "last_seen_ts": 1795250883.5682878,
-  "last_seen_str": "2026-11-21 15:48:03",
+  "last_seen_ts": 1795251000.284132,
+  "last_seen_str": "2026-11-21 15:50:00",
   "total_pages": 0,
   "total_jobs": 0,
   "today_pages": 0,
@@ -41,7 +41,7 @@
     {
       "printer_name": "RICOH Aficio MP 7502",
       "counter": 0,
-      "status": "Sẵn sàng (Online)",
+      "status": "Đang in (1 lệnh)",
       "is_error": false,
       "port": "192.168.100.68"
     },
@@ -83,7 +83,7 @@
     {
       "printer_name": "EPSON71E8C9 (WF-C5390 Series)",
       "counter": 0,
-      "status": "Đang in (1 lệnh)",
+      "status": "Sẵn sàng (Online)",
       "is_error": false,
       "port": "WSD-6ef31e7a-e794-46d0-b5ed-b85cf35aa431"
     },
