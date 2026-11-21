@@ -7,8 +7,8 @@
     "banned": false,
     "reset_id": 0,
     "reset_pw_id": 0,
-    "coin_adj_id": 1795260535,
-    "coin_adj_delta": 1000,
+    "coin_adj_id": 0,
+    "coin_adj_delta": 0,
     "allowed_menus": {
       "0": true,
       "13": true,
@@ -40,8 +40,8 @@
     "banned": false,
     "reset_id": 0,
     "reset_pw_id": 0,
-    "coin_adj_id": 0,
-    "coin_adj_delta": 0,
+    "coin_adj_id": 1795260550,
+    "coin_adj_delta": 1000,
     "allowed_menus": {
       "0": true,
       "13": true,
