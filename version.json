@@ -17,11 +17,11 @@
   },
   "coin_costs": {
     "click_module": 2,
-    "ai_remove_bg": 15,
+    "ai_remove_bg": 17,
     "gdrive": 10,
-    "merge_pdf": 10,
+    "merge_pdf": 12,
     "word_to_pdf": 10,
-    "compress_pdf": 10,
+    "compress_pdf": 11,
     "export_invoice": 10,
     "add_expense": 10,
     "push_invoice": 10
