@@ -1,59 +1,22 @@
 {
   "machine_key": "PC-8FC5-9D55-5C44",
   "shop_name": "BAMBU NOTE - PHOTOCOPY",
-  "app_version": "13.1",
-  "last_seen_ts": 1795247520.7996664,
-  "last_seen_str": "2026-11-21 14:52:00",
+  "app_version": "13.2",
+  "last_seen_ts": 1795247730.1694531,
+  "last_seen_str": "2026-11-21 14:55:30",
   "total_pages": 0,
   "total_jobs": 0,
   "today_pages": 0,
   "month_pages": 0,
-  "coins": 40,
-  "clicks_quote": 4,
-  "clicks_monitor": 4,
-  "clicks_accounting": 4,
+  "coins": 50,
+  "clicks_quote": 0,
+  "clicks_monitor": 0,
+  "clicks_accounting": 0,
   "menu_clicks": {
-    "🖨  In nhanh & Xóa nền PDF": 8,
-    "⚙  Cài đặt & Tài khoản": 8,
-    "🪪  In Căn Cước CD (AI)": 1,
-    "🧮  Báo giá nhanh (5 xu)": 4,
-    "🖥  Giám sát & Bảo dưỡng (5 xu)": 4,
-    "📈  Kế toán nội bộ (5 xu)": 4,
-    "👥  Khách hàng & Công nợ": 2,
-    "🧾  Hóa Đơn & Lịch sử HĐ": 4,
-    "🧩  Bình bài & Cắt bế (AI)": 1,
-    "💬  Chat Zalo Nhận File": 1,
-    "✨  Trợ lý Gemini AI": 1,
-    "📦  Kho hàng & Sản phẩm": 1,
-    "💰  Bảng giá in": 1
+    "🖨  In nhanh & Xóa nền PDF": 2
   },
-  "customers": [
-    {
-      "id": 1,
-      "name": "bao",
-      "phone": "23423423",
-      "address": "1244312",
-      "tier": "Khách lẻ (0%)",
-      "discount_pct": 0.0,
-      "order_count": 1,
-      "last_order_date": "2026-11-21",
-      "total_spent": 30000.0,
-      "debt_amount": 0.0,
-      "due_date": "2026-11-28"
-    }
-  ],
-  "invoices": [
-    {
-      "id": 1,
-      "inv_code": "HD00001",
-      "timestamp": "2026-11-21 14:39:29",
-      "customer": "bao",
-      "phone": "23423423",
-      "address": "1244312",
-      "total_amount": 30000.0,
-      "items_json": "[[\"Đóng gáy xoắn + Bìa kính\", \"1\", \"15,000\", 15000.0], [\"Đóng gáy xoắn + Bìa kính\", \"1\", \"15,000\", 15000.0]]"
-    }
-  ],
+  "customers": [],
+  "invoices": [],
   "printers_counters": [
     {
       "printer_name": "OneNote (Desktop)",
