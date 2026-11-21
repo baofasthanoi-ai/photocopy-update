@@ -2,16 +2,17 @@
   "machine_key": "PC-8FC5-9D55-5C44",
   "shop_name": "BAMBU NOTE - PHOTOCOPY",
   "app_version": "11.5",
-  "last_seen_ts": 1795231857.7055027,
-  "last_seen_str": "2026-11-21 10:30:57",
+  "last_seen_ts": 1795231870.7461414,
+  "last_seen_str": "2026-11-21 10:31:10",
   "total_pages": 0,
   "total_jobs": 0,
   "today_pages": 0,
-  "coins": 50,
+  "coins": 148,
   "clicks_quote": 0,
   "clicks_monitor": 0,
-  "clicks_accounting": 0,
+  "clicks_accounting": 1,
   "menu_clicks": {
-    "🖨  In nhanh & Xóa nền PDF": 2
+    "🖨  In nhanh & Xóa nền PDF": 2,
+    "📈  Kế toán nội bộ (5 xu)": 1
   }
 }
