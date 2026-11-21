@@ -1,27 +1,27 @@
 {
-  "version": "V10",
-  "download_url": "https://github.com/baofasthanoi-ai/photocopy-update/releases/download/V1/QuanLyPhotocopy.exe",
-  "banner_gif_url": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHFldzA3cWQ4ZzJvNmdoeXFtcnozZDJiZXRnOXZwNmxnb2pjOWExaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QBSTyAEOLqBfZxFsbJ/giphy.gif",
-  "changelog": "Xin chào ngày mới 20/10",
+  "version": "11.0",
+  "download_url": "",
+  "banner_gif_url": "",
+  "changelog": "Chào mừng bạn đến với Photocopy Pro V11!",
   "developer": {
-    "name": "DamBao",
-    "contact": "Dam Bao",
-    "website": "bambonote.com",
-    "notice": "Xin chào ngày mới 20/10"
+    "name": "BAMBU NOTE - OANHVV STUDIO",
+    "contact": "FB: oanhvy",
+    "website": "https://github.com/baofasthanoi-ai/photocopy-update",
+    "notice": "Chào mừng bạn đến với Photocopy Pro V11!"
   },
   "topup_config": {
-    "bank_id": "VCB",
+    "bank_id": "VCB - Vietcombank",
     "bank_acc": "9896894456",
     "contact": "FB: oanhvy",
-    "info_text": "Xin chào cái này"
+    "info_text": ""
   },
   "coin_costs": {
-    "click_module": 2,
+    "click_module": 5,
     "ai_remove_bg": 17,
     "gdrive": 10,
     "merge_pdf": 12,
     "word_to_pdf": 10,
-    "compress_pdf": 11,
+    "compress_pdf": 12,
     "export_invoice": 10,
     "add_expense": 10,
     "push_invoice": 10
