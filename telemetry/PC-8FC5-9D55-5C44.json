@@ -1,9 +1,9 @@
 {
   "machine_key": "PC-8FC5-9D55-5C44",
   "shop_name": "BAMBU NOTE - PHOTOCOPY",
-  "app_version": "13.8",
-  "last_seen_ts": 1795258825.5963905,
-  "last_seen_str": "2026-11-21 18:00:25",
+  "app_version": "13.9",
+  "last_seen_ts": 1795259045.512058,
+  "last_seen_str": "2026-11-21 18:04:05",
   "total_pages": 0,
   "total_jobs": 0,
   "today_pages": 0,
@@ -13,7 +13,7 @@
   "clicks_monitor": 0,
   "clicks_accounting": 2,
   "menu_clicks": {
-    "🖨  In nhanh & Xóa nền PDF": 4,
+    "🖨  In nhanh & Xóa nền PDF": 6,
     "💬  Chat Zalo Nhận File": 3,
     "✨  Trợ lý Gemini AI": 3,
     "⚙  Cài đặt & Tài khoản": 2,
