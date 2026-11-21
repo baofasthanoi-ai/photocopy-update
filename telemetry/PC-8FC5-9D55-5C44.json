@@ -2,8 +2,8 @@
   "machine_key": "PC-8FC5-9D55-5C44",
   "shop_name": "BAMBU NOTE - PHOTOCOPY",
   "app_version": "11.1",
-  "last_seen_ts": 1795227896.200618,
-  "last_seen_str": "2026-11-21 09:24:56",
+  "last_seen_ts": 1795227898.3453107,
+  "last_seen_str": "2026-11-21 09:24:58",
   "total_pages": 0,
   "total_jobs": 0,
   "today_pages": 0,
@@ -13,6 +13,6 @@
   "clicks_accounting": 0,
   "menu_clicks": {
     "🖨  In nhanh & Xóa nền PDF": 2,
-    "💬  Chat Zalo Nhận File": 1
+    "💬  Chat Zalo Nhận File": 2
   }
 }
