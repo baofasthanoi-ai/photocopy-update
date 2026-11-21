@@ -2,8 +2,8 @@
   "machine_key": "PC-8FC5-9D55-5C44",
   "shop_name": "BAMBU NOTE - PHOTOCOPY",
   "app_version": "12.8",
-  "last_seen_ts": 1795244104.478416,
-  "last_seen_str": "2026-11-21 13:55:04",
+  "last_seen_ts": 1795244122.8707974,
+  "last_seen_str": "2026-11-21 13:55:22",
   "total_pages": 0,
   "total_jobs": 0,
   "today_pages": 0,
@@ -17,11 +17,35 @@
     "📈  Kế toán nội bộ (5 xu)": 2,
     "💬  Chat Zalo Nhận File": 1,
     "🖥  Giám sát & Bảo dưỡng (5 xu)": 1,
-    "👥  Khách hàng & Công nợ": 2,
+    "👥  Khách hàng & Công nợ": 3,
     "🧾  Hóa Đơn & Lịch sử HĐ": 2
   },
-  "customers": [],
-  "invoices": [],
+  "customers": [
+    {
+      "id": 1,
+      "name": "dambao",
+      "phone": "32423",
+      "address": "234342",
+      "tier": "Khách lẻ (0%)",
+      "discount_pct": 0.0,
+      "order_count": 1,
+      "last_order_date": "2026-11-21",
+      "debt_amount": 0.0,
+      "due_date": "2026-11-28"
+    }
+  ],
+  "invoices": [
+    {
+      "id": 1,
+      "inv_code": "HD00001",
+      "timestamp": "2026-11-21 13:55:17",
+      "customer": "dambao",
+      "phone": "32423",
+      "address": "234342",
+      "total_amount": 30000.0,
+      "items_json": "[[\"Đóng gáy xoắn + Bìa kính\", \"1\", \"15,000\", 15000.0], [\"Đóng gáy xoắn + Bìa kính\", \"1\", \"15,000\", 15000.0]]"
+    }
+  ],
   "printers_counters": [
     {
       "printer_name": "OneNote (Desktop)",
