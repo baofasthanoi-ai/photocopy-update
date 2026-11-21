@@ -5,7 +5,10 @@
     "monitor": true,
     "accounting": true,
     "banned": false,
-    "reset_id": 1795205695
+    "reset_id": 0,
+    "reset_pw_id": 0,
+    "coin_adj_id": 0,
+    "coin_adj_delta": 0
   },
   "PC-8FC5-9D55-5C44": {
     "note": "BAMBU NOTE - PHOTOCOPY",
@@ -13,6 +16,9 @@
     "monitor": true,
     "accounting": true,
     "banned": false,
-    "reset_id": 1795205695
+    "reset_id": 0,
+    "reset_pw_id": 0,
+    "coin_adj_id": 1795225069,
+    "coin_adj_delta": 50
   }
 }
