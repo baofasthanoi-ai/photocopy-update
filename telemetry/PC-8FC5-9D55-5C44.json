@@ -2,8 +2,8 @@
   "machine_key": "PC-8FC5-9D55-5C44",
   "shop_name": "BAMBU NOTE - PHOTOCOPY",
   "app_version": "13.1",
-  "last_seen_ts": 1795246757.741867,
-  "last_seen_str": "2026-11-21 14:39:17",
+  "last_seen_ts": 1795246769.58852,
+  "last_seen_str": "2026-11-21 14:39:29",
   "total_pages": 0,
   "total_jobs": 0,
   "today_pages": 0,
@@ -13,7 +13,7 @@
   "clicks_monitor": 1,
   "clicks_accounting": 1,
   "menu_clicks": {
-    "🖨  In nhanh & Xóa nền PDF": 4,
+    "🖨  In nhanh & Xóa nền PDF": 5,
     "⚙  Cài đặt & Tài khoản": 4,
     "🪪  In Căn Cước CD (AI)": 1,
     "🧮  Báo giá nhanh (5 xu)": 1,
@@ -22,8 +22,33 @@
     "👥  Khách hàng & Công nợ": 1,
     "🧾  Hóa Đơn & Lịch sử HĐ": 1
   },
-  "customers": [],
-  "invoices": [],
+  "customers": [
+    {
+      "id": 1,
+      "name": "bao",
+      "phone": "23423423",
+      "address": "1244312",
+      "tier": "Khách lẻ (0%)",
+      "discount_pct": 0.0,
+      "order_count": 1,
+      "last_order_date": "2026-11-21",
+      "total_spent": 30000.0,
+      "debt_amount": 0.0,
+      "due_date": "2026-11-28"
+    }
+  ],
+  "invoices": [
+    {
+      "id": 1,
+      "inv_code": "HD00001",
+      "timestamp": "2026-11-21 14:39:29",
+      "customer": "bao",
+      "phone": "23423423",
+      "address": "1244312",
+      "total_amount": 30000.0,
+      "items_json": "[[\"Đóng gáy xoắn + Bìa kính\", \"1\", \"15,000\", 15000.0], [\"Đóng gáy xoắn + Bìa kính\", \"1\", \"15,000\", 15000.0]]"
+    }
+  ],
   "printers_counters": [
     {
       "printer_name": "OneNote (Desktop)",
