@@ -2,14 +2,14 @@
   "machine_key": "PC-4F46-59E3-5869",
   "shop_name": "BAMBU NOTE - PHOTOCOPY",
   "app_version": "13.4",
-  "last_seen_ts": 1795250264.9203804,
-  "last_seen_str": "2026-11-21 15:37:44",
+  "last_seen_ts": 1795250290.112697,
+  "last_seen_str": "2026-11-21 15:38:10",
   "total_pages": 0,
   "total_jobs": 0,
   "today_pages": 0,
   "month_pages": 0,
   "coins": 1010,
-  "clicks_quote": 0,
+  "clicks_quote": 1,
   "clicks_monitor": 4,
   "clicks_accounting": 0,
   "menu_clicks": {
@@ -18,7 +18,8 @@
     "🖥  Giám sát & Bảo dưỡng (5 xu)": 4,
     "💰  Bảng giá in": 1,
     "📦  Kho hàng & Sản phẩm": 2,
-    "💬  Chat Zalo Nhận File": 1
+    "💬  Chat Zalo Nhận File": 1,
+    "🧮  Báo giá nhanh (5 xu)": 1
   },
   "customers": [],
   "invoices": [],
@@ -40,7 +41,7 @@
     {
       "printer_name": "RICOH Aficio MP 7502",
       "counter": 0,
-      "status": "Đang in (2 lệnh)",
+      "status": "Đang in (1 lệnh)",
       "is_error": false,
       "port": "192.168.100.68"
     },
@@ -82,8 +83,8 @@
     {
       "printer_name": "EPSON71E8C9 (WF-C5390 Series)",
       "counter": 0,
-      "status": "Hết giấy",
-      "is_error": true,
+      "status": "Đang in (1 lệnh)",
+      "is_error": false,
       "port": "WSD-6ef31e7a-e794-46d0-b5ed-b85cf35aa431"
     },
     {
