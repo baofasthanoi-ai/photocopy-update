@@ -1,13 +1,13 @@
 {
-  "version": "11.0",
+  "version": "13.3",
   "download_url": "",
   "banner_gif_url": "",
-  "changelog": "Chào mừng bạn đến với Photocopy Pro V11!",
+  "changelog": "Chào mừng bạn đến với Photocopy Pro V12!",
   "developer": {
     "name": "BAMBU NOTE - OANHVV STUDIO",
     "contact": "FB: oanhvy",
     "website": "https://github.com/baofasthanoi-ai/photocopy-update",
-    "notice": "Chào mừng bạn đến với Photocopy Pro V11!"
+    "notice": "Chào mừng bạn đến với Photocopy Pro V12!"
   },
   "topup_config": {
     "bank_id": "VCB",
@@ -16,14 +16,24 @@
     "info_text": ""
   },
   "coin_costs": {
-    "click_module": 0,
-    "ai_remove_bg": 0,
-    "gdrive": 0,
-    "merge_pdf": 0,
-    "word_to_pdf": 0,
-    "compress_pdf": 0,
-    "export_invoice": 0,
-    "add_expense": 0,
-    "push_invoice": 0
+    "click_module": 5,
+    "quote_add_file": 5,
+    "ai_remove_bg": 15,
+    "gdrive": 10,
+    "merge_pdf": 10,
+    "word_to_pdf": 10,
+    "compress_pdf": 10,
+    "export_invoice": 10,
+    "add_expense": 10,
+    "push_invoice": 10,
+    "imposition_label": 10,
+    "imposition_book": 10,
+    "tax_report": 10,
+    "zalo_gdrive": 10
+  },
+  "commitment": {
+    "title": "THÔNG BÁO TỪ HỆ THỐNG",
+    "image_url": "https://cellphones.com.vn/sforum/wp-content/uploads/2022/12/cach-dang-ki-internet-banking-vietcombank-2.png",
+    "text": "Xin chào"
   }
 }
