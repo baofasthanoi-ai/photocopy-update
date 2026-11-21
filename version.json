@@ -1,11 +1,29 @@
 {
   "version": "V10",
   "download_url": "https://github.com/baofasthanoi-ai/photocopy-update/releases/download/V1/QuanLyPhotocopy.exe",
-  "changelog": "- Phien ban dau thay doi giao dien",
+  "banner_gif_url": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHFldzA3cWQ4ZzJvNmdoeXFtcnozZDJiZXRnOXZwNmxnb2pjOWExaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QBSTyAEOLqBfZxFsbJ/giphy.gif",
+  "changelog": "Xin chào ngày mới 20/10",
   "developer": {
     "name": "DamBao",
     "contact": "Dam Bao",
     "website": "bambonote.com",
     "notice": "Xin chào ngày mới 20/10"
+  },
+  "topup_config": {
+    "bank_id": "VCB",
+    "bank_acc": "9896894456",
+    "contact": "FB: oanhvy",
+    "info_text": ""
+  },
+  "coin_costs": {
+    "click_module": 2,
+    "ai_remove_bg": 15,
+    "gdrive": 10,
+    "merge_pdf": 10,
+    "word_to_pdf": 10,
+    "compress_pdf": 10,
+    "export_invoice": 10,
+    "add_expense": 10,
+    "push_invoice": 10
   }
 }
