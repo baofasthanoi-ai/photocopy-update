@@ -2,8 +2,8 @@
   "machine_key": "PC-4F46-59E3-5869",
   "shop_name": "BAMBU NOTE - PHOTOCOPY",
   "app_version": "13.4",
-  "last_seen_ts": 1795251243.4339345,
-  "last_seen_str": "2026-11-21 15:54:03",
+  "last_seen_ts": 1795251284.8034198,
+  "last_seen_str": "2026-11-21 15:54:44",
   "total_pages": 486,
   "total_jobs": 4,
   "today_pages": 486,
@@ -76,7 +76,7 @@
     {
       "printer_name": "EPSONAE33A0 WF-C5290",
       "counter": 1,
-      "status": "Đang in (1 lệnh)",
+      "status": "Sẵn sàng (Online)",
       "is_error": false,
       "port": "WSD-abe098ca-e654-4109-8968-aa69b2fe6c42"
     },
