@@ -12,7 +12,7 @@
     "allowed_menus": {
       "0": true,
       "13": true,
-      "14": false,
+      "14": true,
       "10": true,
       "11": true,
       "1": true,
@@ -22,10 +22,10 @@
       "5": true,
       "12": true,
       "6": true,
-      "7": true,
+      "7": false,
       "8": false
     },
-    "allow_gemini": false
+    "allow_gemini": true
   },
   "PC-8FC5-9D55-5C44": {
     "note": "BAMBU NOTE - PHOTOCOPY",
