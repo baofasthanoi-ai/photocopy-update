@@ -2,8 +2,8 @@
   "machine_key": "PC-8FC5-9D55-5C44",
   "shop_name": "BAMBU NOTE - PHOTOCOPY",
   "app_version": "14.1",
-  "last_seen_ts": 1795261240.1380994,
-  "last_seen_str": "2026-11-21 18:40:40",
+  "last_seen_ts": 1795261242.5407617,
+  "last_seen_str": "2026-11-21 18:40:42",
   "total_pages": 0,
   "total_jobs": 0,
   "today_pages": 0,
@@ -17,7 +17,8 @@
     "💬  Chat Zalo Nhận File": 1,
     "✨  Trợ lý Gemini AI": 2,
     "⚙  Cài đặt & Tài khoản": 3,
-    "📈  Kế toán nội bộ (5 xu)": 3
+    "📈  Kế toán nội bộ (5 xu)": 3,
+    "👥  Khách hàng & Công nợ": 1
   },
   "customers": [],
   "invoices": [],
