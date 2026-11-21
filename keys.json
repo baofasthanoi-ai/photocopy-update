@@ -23,12 +23,12 @@
       "12": true,
       "6": true,
       "7": true,
-      "8": false
+      "8": true
     },
     "allow_gemini": true,
-    "private_notice_title": "Xin chào",
-    "private_notice_body": "Hiện tài khoản cả bạn đang bị tạm khoaó",
-    "private_notice_id": 1795241183,
+    "private_notice_title": "",
+    "private_notice_body": "",
+    "private_notice_id": 0,
     "reset_counter_id": 0
   },
   "PC-8FC5-9D55-5C44": {
@@ -41,22 +41,7 @@
     "reset_pw_id": 0,
     "coin_adj_id": 0,
     "coin_adj_delta": 0,
-    "allowed_menus": {
-      "0": true,
-      "13": true,
-      "14": false,
-      "10": true,
-      "11": true,
-      "1": true,
-      "2": true,
-      "3": true,
-      "4": true,
-      "5": true,
-      "12": true,
-      "6": true,
-      "7": true,
-      "8": true
-    },
+    "allowed_menus": {},
     "allow_gemini": false,
     "private_notice_title": "",
     "private_notice_body": "",
