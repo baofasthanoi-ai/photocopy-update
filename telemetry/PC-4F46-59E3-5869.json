@@ -1,29 +1,113 @@
 {
   "machine_key": "PC-4F46-59E3-5869",
   "shop_name": "BAMBU NOTE - PHOTOCOPY",
-  "app_version": "11.9",
-  "last_seen_ts": 1795248360.4695494,
-  "last_seen_str": "2026-11-21 15:06:00",
+  "app_version": "13.4",
+  "last_seen_ts": 1795249481.6891444,
+  "last_seen_str": "2026-11-21 15:24:41",
   "total_pages": 0,
   "total_jobs": 0,
   "today_pages": 0,
-  "coins": 2342327,
-  "clicks_quote": 2,
-  "clicks_monitor": 6,
-  "clicks_accounting": 6,
+  "month_pages": 0,
+  "coins": 50,
+  "clicks_quote": 0,
+  "clicks_monitor": 0,
+  "clicks_accounting": 0,
   "menu_clicks": {
-    "🖨  In nhanh & Xóa nền PDF": 5,
-    "📈  Kế toán nội bộ (5 xu)": 6,
-    "👥  Khách hàng & Công nợ": 9,
-    "💬  Chat Zalo Nhận File": 4,
-    "🧩  Bình bài & Cắt bế (AI)": 3,
-    "🪪  In Căn Cước CD (AI)": 2,
-    "🧮  Báo giá nhanh (5 xu)": 2,
-    "🖥  Giám sát & Bảo dưỡng (5 xu)": 6,
-    "💰  Bảng giá in": 4,
-    "📦  Kho hàng & Sản phẩm": 4,
-    "🧾  Hóa Đơn & Lịch sử HĐ": 9,
-    "⚙  Cài đặt & Tài khoản": 7,
-    "✨  Trợ lý Gemini AI": 1
-  }
+    "🖨  In nhanh & Xóa nền PDF": 2
+  },
+  "customers": [],
+  "invoices": [],
+  "printers_counters": [
+    {
+      "printer_name": "Xprinter XP-490B",
+      "counter": 0,
+      "status": "Sẵn sàng (Online)",
+      "is_error": false,
+      "port": "USB003"
+    },
+    {
+      "printer_name": "OneNote for Windows 10",
+      "counter": 0,
+      "status": "Sẵn sàng (Online)",
+      "is_error": false,
+      "port": "Microsoft.Office.OneNote_16001.14326.22348.0_x64__8wekyb3d8bbwe_microsoft.onenoteim_S-1-5-21-1833458451-3825253545-3113512973-1001"
+    },
+    {
+      "printer_name": "RICOH Aficio MP 7502",
+      "counter": 0,
+      "status": "Hết giấy",
+      "is_error": true,
+      "port": "192.168.100.68"
+    },
+    {
+      "printer_name": "OneNote (Desktop)",
+      "counter": 0,
+      "status": "Sẵn sàng (Online)",
+      "is_error": false,
+      "port": "nul:"
+    },
+    {
+      "printer_name": "Microsoft XPS Document Writer",
+      "counter": 0,
+      "status": "Sẵn sàng (Online)",
+      "is_error": false,
+      "port": "PORTPROMPT:"
+    },
+    {
+      "printer_name": "Microsoft Print to PDF",
+      "counter": 0,
+      "status": "Sẵn sàng (Online)",
+      "is_error": false,
+      "port": "PORTPROMPT:"
+    },
+    {
+      "printer_name": "Fax",
+      "counter": 0,
+      "status": "Sẵn sàng (Online)",
+      "is_error": false,
+      "port": "SHRFAX:"
+    },
+    {
+      "printer_name": "EPSONAE33A0 WF-C5290",
+      "counter": 0,
+      "status": "Sẵn sàng (Online)",
+      "is_error": false,
+      "port": "WSD-abe098ca-e654-4109-8968-aa69b2fe6c42"
+    },
+    {
+      "printer_name": "EPSON71E8C9 (WF-C5390 Series)",
+      "counter": 0,
+      "status": "Hết giấy",
+      "is_error": true,
+      "port": "WSD-6ef31e7a-e794-46d0-b5ed-b85cf35aa431"
+    },
+    {
+      "printer_name": "EPSON L4160 Series (Copy 1)",
+      "counter": 0,
+      "status": "Sẵn sàng (Online)",
+      "is_error": false,
+      "port": "WSD-f08d3944-bf7b-4875-9694-ff5e6727dd7b"
+    },
+    {
+      "printer_name": "EPSON L4160 Series",
+      "counter": 0,
+      "status": "Sẵn sàng (Online)",
+      "is_error": false,
+      "port": "EP4FF5F8:L4160 SERIES"
+    },
+    {
+      "printer_name": "Canon iR-ADV C7260/7270 PCL6",
+      "counter": 0,
+      "status": "Sẵn sàng (Online)",
+      "is_error": false,
+      "port": "192.168.100.87_1"
+    },
+    {
+      "printer_name": "Adobe PDF",
+      "counter": 0,
+      "status": "Sẵn sàng (Online)",
+      "is_error": false,
+      "port": "Documents\\*.pdf"
+    }
+  ]
 }
