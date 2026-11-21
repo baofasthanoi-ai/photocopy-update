@@ -16,7 +16,7 @@
     "info_text": ""
   },
   "coin_costs": {
-    "click_module": 5,
+    "click_module": 10,
     "quote_add_file": 5,
     "ai_remove_bg": 15,
     "gdrive": 10,
@@ -29,11 +29,11 @@
     "imposition_label": 10,
     "imposition_book": 10,
     "tax_report": 10,
-    "zalo_gdrive": 10
+    "zalo_gdrive": 15
   },
   "commitment": {
     "title": "THÔNG BÁO TỪ HỆ THỐNG",
-    "image_url": "https://cellphones.com.vn/sforum/wp-content/uploads/2022/12/cach-dang-ki-internet-banking-vietcombank-2.png",
-    "text": "Xin chào"
+    "image_url": "",
+    "text": ""
   }
 }
